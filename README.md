@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Salom, men Shaxlo! (Ryveliss)
 
-<!--
-**k6ddjzpq6w-droid/k6ddjzpq6w-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Men haqimda / About Me
+- 👥 IT Community of Uzbekistan faol a'zosiman.
+- 💻 Backend va AI yo'nalishlarida innovatsion loyihalar ustida ishlayapman.
+- 🎯 Hozirgi maqsadim: FinTech Hackathon 2026 marafoni uchun kuchli MVP yechimini tayyorlash.
 
-Here are some ideas to get you started:
+### 🌐 Men yaratgan asosiy loyihalar / My Portfolio
+- 🤖 Mashka AI — Shaxsiy aqlli sun'iy intellekt assistenti va yordamchi tizimi.
+- 🌐 Website Creator App — No-code uslubida tezkor veb-saytlar yaratish ilovasi.
+- 📊 Presentation Builder — Taqdimotlar va slaydlar tayyorlashni avtomatlashtiruvchi dastur.
+- 🤝 Volunteer Welcome App — IT hamjamiyatlari uchun volontyorlarni qabul qilish va boshqarish tizimi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Texnologiyalar va Vositalar / Tech Stack
+<p align="left">
+  <img src="https://githubusercontent.com" alt="python" width="40" height="40"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="django" width="40" height="40"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="postgres" width="40" height="40"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="git" width="40" height="40"/>
+</p>
+
+### 📈 GitHub Statistikam
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</p>
+
+---
+💬 Men bilan [Instagram](https://instagram.com) orqali bog'lanishingiz mumkin!
