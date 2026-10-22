@@ -3,8 +3,7 @@
 ### 🚀 Men haqimda / About Me
 - 👥 IT Community of Uzbekistan faol a'zosiman.
 - 💻 Backend va AI yo'nalishlarida innovatsion loyihalar ustida ishlayapman.
-- 🎯 Hozirgi maqsadim: FinTech Hackathon 2026 marafoni uchun kuchli MVP yechimini tayyorlash.
-
+- 🎯 Hozirgi maqsadim: Barcha ishlarimni githubga qo'shish {2020-2026]
 ### 🌐 Men yaratgan asosiy loyihalar / My Portfolio
 - 🤖 Mashka AI — Shaxsiy aqlli sun'iy intellekt assistenti va yordamchi tizimi.
 - 🌐 Website Creator App — No-code uslubida tezkor veb-saytlar yaratish ilovasi.
